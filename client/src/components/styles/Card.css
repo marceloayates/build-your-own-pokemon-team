@@ -1,0 +1,8 @@
+.card-container {
+  display: inline-block;
+  flex-basis: 50%;
+}
+
+p {
+  display:inline
+}

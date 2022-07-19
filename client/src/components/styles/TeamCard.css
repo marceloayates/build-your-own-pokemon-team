@@ -1,0 +1,11 @@
+h3 {
+  margin: 0px
+}
+
+h3::first-letter {
+  text-transform:capitalize;
+}
+
+.image {
+  padding: -30px;
+}
